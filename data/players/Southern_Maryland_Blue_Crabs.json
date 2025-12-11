@@ -1,0 +1,930 @@
+{
+  "success": true,
+  "message": "Players retrieved successfully",
+  "data": [
+    {
+      "player_id": "b4a94789-0128-492d-8805-9308729feb0e",
+      "player_name": "Aklinski, Ben",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "337001a3-e502-4a99-90f2-1d0335242ae2",
+      "player_name": "Alonso, Alan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a11dadf0-f476-40d8-bd9e-043e89d1104c",
+      "player_name": "Arjona, Kyle",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d615219e-73bd-4f9b-ab9d-2461fe98f803",
+      "player_name": "Baca, Michael",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a08a3fb8-3647-44fc-81df-5be20beec524",
+      "player_name": "Barrera, Brett",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "18ba816f-550a-4d57-aca6-a70da097fbcc",
+      "player_name": "Baylor, Jamari",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "517fb317-addb-4f50-9e15-f6d6b931295a",
+      "player_name": "Blanchard, Jason",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "0d7f9a6e-93b3-48c9-85ed-7fc245ea09c6",
+      "player_name": "Brewer, Aidan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "db94dd0e-716e-4639-aa61-62b1c6db39f5",
+      "player_name": "Briceno, Endrys",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "1176074d-904b-4cc2-97ec-16bba50b328a",
+      "player_name": "Brocato, Anthony",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a3043d4e-cf20-4679-97dd-f927b20b6259",
+      "player_name": "Broughton, Josh",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f1c403e7-48c9-467e-814a-cf0fa0fdf99f",
+      "player_name": "Burt, D.J.",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "b9a921a6-ca35-4061-9462-d60041f5174f",
+      "player_name": "Campbell, Maceo",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2a92b315-2e37-4bf7-b3a3-5fbef2fc4eea",
+      "player_name": "Candelario, AJ",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "01837316-aa1c-4a6a-8cca-7bdef44e88ec",
+      "player_name": "Carpenter, Joseph",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2758b5fb-1cf5-45b3-9c97-e7846d60d2cc",
+      "player_name": "Carr, Jordan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "ffdfdc40-099f-4f02-b4ca-4298b0562e6c",
+      "player_name": "Casey, Derek",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e255b131-2b3d-4ffb-b0b3-e5b82d47e9a0",
+      "player_name": "Chatham, Cael",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "92798d18-4cb7-489f-b6b9-58f559cf67ca",
+      "player_name": "Childs, Dwight",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "52f5df0f-0645-4041-9e6e-e52e9eadfac7",
+      "player_name": "Creasy, Jason",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "02e54025-9158-491f-aaf1-f903774dd041",
+      "player_name": "De Aza, Alejandro",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a8383fe7-e83e-42d9-a5aa-8dbdb2d55b58",
+      "player_name": "Demeritte, Travis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "6e2b04d2-a1f7-422c-b4e4-3dedbcd794aa",
+      "player_name": "Demeritte, Travis ",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e6998894-b9b8-44ef-9da2-565a6aeeaeaf",
+      "player_name": "Dexter, Sam",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "ee96d3a2-a948-4712-8b3d-2f9f0bcdcaef",
+      "player_name": "DiGiacomo, Giovanni",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e76aa53c-e51e-4ea9-9a93-d2b0889d6f48",
+      "player_name": "Dues, Damon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "442f336b-2def-40ea-87f2-a1882d3fbfc4",
+      "player_name": "Dunston, Shawon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "28fac0a3-381a-42eb-86f8-53d604731923",
+      "player_name": "Edwards, Evan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "276d6514-e089-4f00-a3dc-fda95d4fbc65",
+      "player_name": "Eeles, Payton",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f917d755-7e0b-4278-ac80-c8d1704a14fe",
+      "player_name": "Estrada, Willie",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e218d407-34c0-48ca-94fb-af2eb3004a29",
+      "player_name": "Farmer, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a44ee414-1d32-4712-bcfd-275140bbd630",
+      "player_name": "flores, santiago",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2bb4fe75-3fe6-4aef-b4aa-c06687cdc9d5",
+      "player_name": "Flores, Santiago",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "1efd350f-8705-45d9-a49a-65abca5d6469",
+      "player_name": "Florez, Santiago",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "bf07e8ef-affd-4657-8fa6-98eeec3e13ea",
+      "player_name": "Garcia, Wilkerman",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d7b6194e-0be4-4ac8-896a-7037413f5e5b",
+      "player_name": "Gonzalez, Luis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "da02ee96-a663-4745-9df6-773fc0a536cd",
+      "player_name": "Guzman, Jeison",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "309135e1-9d69-4e0d-9290-82c070cccbf6",
+      "player_name": "Hall, Hylan",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f65a1234-2469-4b64-89f8-7e5932ace2b2",
+      "player_name": "Hennessey, Joey",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "3d2328ec-344b-488f-9a5f-ae64f70081ea",
+      "player_name": "Hibbert, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "1ebf238c-1058-4543-b074-76778c957416",
+      "player_name": "Hill, Aaron",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "c4cae90c-f7ac-4aed-8360-b8e11d4ffec2",
+      "player_name": "Howard, Jordan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "795fb4fa-37db-4e7f-a437-fe24991b4902",
+      "player_name": "Howard, Pearce",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "28c35f88-c868-4d51-8bf6-9b72c927552d",
+      "player_name": "Hubbard, Dondrei",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d8bee9ee-5a9c-4eec-8eb1-07adbc40391b",
+      "player_name": "Johnson, Kolby",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f6b72973-5055-4cd1-ab02-2e7bc3c464d3",
+      "player_name": "Johnston, Spencer",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2fd5d2e9-93be-43a0-80c1-dda908fcd105",
+      "player_name": "Kahaloa, Ian",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "940dc067-8c4c-4b54-a436-c83a9d7f24b1",
+      "player_name": "Kasser, Kyle",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "394f5bb9-9e03-4eeb-bb80-195ab536ca7e",
+      "player_name": "Katz, Alex",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "fbbafd60-f5fc-4059-9834-b4ee245c1066",
+      "player_name": "Kelly, John",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a80a2f77-b7a5-4b32-b412-26c8ea5dad65",
+      "player_name": "Kelly, Juan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "8b6da5b0-c63a-412b-8dab-f1019a86799d",
+      "player_name": "King, Thomas",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "8d2979d3-fb9e-478d-bd98-a5a3f9b91610",
+      "player_name": "Lang, Neil",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e33871df-44d2-407a-b7aa-9d6add186169",
+      "player_name": "Lin, Lyle",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a375ec55-e585-45ca-a202-35a00a87d194",
+      "player_name": "Loftin, Jackson",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "8668f84d-14d9-4bc1-b4ce-202221ea8c3c",
+      "player_name": "Marquez, Caleb",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e044467b-5e1b-48df-8d20-6399d65d2d56",
+      "player_name": "Martin, Garrett",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "e25f4568-41f2-401a-878f-6d06af472e2e",
+      "player_name": "McCabe, Brandon",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "55d691d8-584a-4ebf-9c1f-847d66023024",
+      "player_name": "McCarthy, Ryan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "8b6a7fa5-f868-4ee0-9bb1-a53becd2999d",
+      "player_name": "McGee, Trevor",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "b35bdc1c-40f7-4d34-94de-e5ad933c7a37",
+      "player_name": "Merithew, Alex",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f2c78d92-1b1e-4417-832e-449711132d94",
+      "player_name": "Miller, Jalen",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f11a6145-7898-4c7c-b02a-05235a8e254d",
+      "player_name": "Motter, Taylor",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d30486e0-871e-4310-b2ca-9d19dbbb1289",
+      "player_name": "Mullen, Sean",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "a4f69186-2e44-4f44-90df-93be56d83ede",
+      "player_name": "Norman, Ben",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "da70725f-8fc6-44d0-a8a1-a83e8340e09c",
+      "player_name": "Overton, Connor",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "74d19645-d416-4d29-86c3-d3525fc0c8f2",
+      "player_name": "Proctor, Chris",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "52d83898-dc46-422a-b71c-6cce8a826ded",
+      "player_name": "Pugh, Brandon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "21ff0d39-5f6f-4ade-b2bd-5d034b9ed534",
+      "player_name": "Quiroz, Isaias",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "100fde7c-8665-49f2-9b96-d5ef1a63b09a",
+      "player_name": "Racusin, Zach",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "4e1f19be-8399-408c-b458-165f7f0f1adc",
+      "player_name": "Ray, Anthony",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "845f11ae-8972-469a-91d4-27646d8ad90f",
+      "player_name": "Reyes, Jomar",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "58ea18ad-4f47-4e0f-adc2-c0e2edd52943",
+      "player_name": "Ross, Dalton",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "ff35c602-2c98-4ca7-bd9f-0954ea73a4f9",
+      "player_name": "Sandoval, Pablo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "db369e1d-6e92-4342-a46f-4489f481d377",
+      "player_name": "Santos, Oscar",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "9d6a7b44-9df7-4ca6-ac75-b7a09b164c1d",
+      "player_name": "Scantlin, Nate",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "b9607d22-4f72-4f18-9521-db52f255b1dc",
+      "player_name": "Schilperoort, Hunter",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "584e1626-d893-43eb-8c07-9366d452ff7c",
+      "player_name": "Scrubb, Andre",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "88dcc1ac-853c-4710-bac0-d57147412e9b",
+      "player_name": "Semple, Shawn",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "6ea37e86-2ff4-4aa8-80c0-c80aa6267f83",
+      "player_name": "Sherfy, Jimmy",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "1d5388c9-b04a-49af-88b6-1debcf9acc8e",
+      "player_name": "Skender, Ethan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "3918c44f-38f9-43bc-9fae-cbdbb16559e1",
+      "player_name": "Suozzi, Joe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "723a5310-7c9f-4bbf-a7b9-478fab73fc01",
+      "player_name": "Taylor, John",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2337c3ba-179c-4d4a-ab67-38ad5a4d3b0e",
+      "player_name": "Thompson, Cody",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "6903c40e-48f9-46b2-9b50-7c91b678856b",
+      "player_name": "Thompson, Daryl",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "13c65255-bd3d-4707-a444-c86e5f57c95b",
+      "player_name": "Thurman, Andrew",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "c18d058e-4034-4b29-975b-b93456f948a3",
+      "player_name": "Valdes, Andy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "4a134688-0bce-428f-b082-56d473389e10",
+      "player_name": "Vazquez, Rafi",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "41852a04-3be0-4095-a2e5-4c1cc23120f9",
+      "player_name": "Viera, Max",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "05b10ee4-b3d8-4aed-a32a-6aacef7e1a93",
+      "player_name": "Vinson, Chase",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "56b1f16f-10a2-4513-9c52-ed7f9f28cab1",
+      "player_name": "Virbitsky, Kyle",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "c3d1fe5b-f6ac-4840-85ad-ffcd57cf0bf0",
+      "player_name": "Weiss, Cooper",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "7914dcdc-2ee0-4fd9-9eac-73cbc686fff4",
+      "player_name": "Weiss, Cooper ",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d6b93cf3-8056-4890-9590-bd6fab375851",
+      "player_name": "Wielansky, Michael",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "c5f5429f-661d-463c-9040-5b2fa944cb53",
+      "player_name": "Williams, Jaylyn",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "74da322e-dd92-445b-8fd1-1621c88407a7",
+      "player_name": "Williams, Miles",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "f34c7c85-ab67-4443-811e-896ab64cd701",
+      "player_name": "Williamson, Noah",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "22acd915-5631-4c9e-ad23-2c01c203600d",
+      "player_name": "Wilson, Cody",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "d99e3e67-7d2b-4bb6-93ea-a5ad69ffa957",
+      "player_name": "Wilson, Ethan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "2b20afbf-7b9d-45e7-bd52-95295afce27d",
+      "player_name": "Wright, Jarod",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "5af05b4e-da7f-454e-99fa-5c7a9bd87cfb",
+      "player_name": "Wurtz, Gabe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    },
+    {
+      "player_id": "799fa3af-7f51-419e-9a0a-592cbb0fb2e5",
+      "player_name": "Yetsko, Ian",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Southern Maryland Blue Crabs"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 1000,
+    "total": 102,
+    "pages": 1
+  }
+}

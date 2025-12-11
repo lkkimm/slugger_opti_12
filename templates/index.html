@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Outfield Positioning Optimizer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <h1>Outfield Positioning Optimizer</h1>
+  <div class="layout">
+    <div class="panel">
+      <label>Pitcher Handedness</label>
+      <select id="pitcher_hand">
+        <option value="RHP">RHP</option>
+        <option value="LHP">LHP</option>
+      </select>
+
+      <label>Batter &amp; Side</label>
+      <select id="batter_id">
+        {% for bid, meta in batters.items() %}
+          <option value="{{ bid }}" data-name="{{ meta.batter_name }}" data-hand="{{ meta.batter_hand }}">{{ meta.label }}</option>
+        {% endfor %}
+      </select>
+
+      <button type="button" onclick="run()">Generate Positions</button>
+      <p class="info-text">
+        Demo uses synthetic spray charts per batter/handedness matchup.
+      </p>
+      <p class="info-text-small">
+        <a href="/download" class="info-link">Download latest LF/CF/RF CSV</a>
+      </p>
+    </div>
+
+    <div id="screen">
+      <div class="initial-message">
+        Select pitcher handedness and batter to generate optimized outfield positioning.
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

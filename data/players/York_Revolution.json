@@ -1,0 +1,1407 @@
+{
+  "success": true,
+  "message": "Players retrieved successfully",
+  "data": [
+    {
+      "player_id": "28063003-f0f1-47e4-bdce-668de9400092",
+      "player_name": "Acal, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a5571435-728c-411c-9dac-020cd81e82c5",
+      "player_name": "Alleyne, Bubba",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "4972d2c3-c3b9-4ed7-b7d0-776c9b1cb6df",
+      "player_name": "Alonso, Alan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "de124300-cc56-4998-9a17-581539bd9863",
+      "player_name": "Arocho, Jeremy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "cbea2945-f71c-4ff3-9e4a-a626e86b31c0",
+      "player_name": "Barnum, Keon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "e6aca0d2-31f0-465c-98fe-778d3a304c17",
+      "player_name": "Bartow, Frankie",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a27fb75b-ae81-4c99-a072-59355e9c9a45",
+      "player_name": "Baylor, Jamari",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "bdf4a3c7-0648-492d-9a48-2d5e51a72121",
+      "player_name": "Baylor, Jamari",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "00313d9a-5c5c-46aa-9624-1d4dff8d9c39",
+      "player_name": "Bennett, Nick",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b0fdaf54-ba5b-4d89-88d9-ab2db94df550",
+      "player_name": "Bentley, Denny",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8ffeb028-15ab-4670-a1ba-83717b07352f",
+      "player_name": "Berglund, Michael",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a3c18ba5-d720-4a87-b554-54cd6ec4cc97",
+      "player_name": "Blackwell, Benjamin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "16b8bce6-973b-47cf-9192-3173ce120707",
+      "player_name": "Blanton, Bryan",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2e489721-3490-4169-ac58-820113038634",
+      "player_name": "Broussard, Brandt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "ae111d85-fc69-4358-b43f-2e22c1715bf8",
+      "player_name": "Bugg, Parker",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8592ced7-5e4f-43d8-81bd-c2854fa8b680",
+      "player_name": "Burnette, Jimmy",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "91f32f6f-ce48-4402-af20-dd0f91093ac5",
+      "player_name": "Bustamante, Alex",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "1d8735c2-933e-4eed-9dce-7a9e1c48e8fb",
+      "player_name": "Carter, Will",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2db8e6ad-babd-43c8-aa7c-3693c1193158",
+      "player_name": "Casey, Donovan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "44287946-d54c-430f-a845-f5e55411483b",
+      "player_name": "Casey, Donovan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7e386522-1d9a-4776-982e-2aa3abe87f8b",
+      "player_name": "Castro, Luis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a41a36bb-1c83-4bfa-a860-d0003cc26914",
+      "player_name": "Cellucci, Brendan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b67b29f9-d633-401b-8e5c-ebb810dc77fc",
+      "player_name": "Churchill, Ian",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8dba3822-48f1-4073-a6d8-b3ab5756208e",
+      "player_name": "Cohen, Chase",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "906c2758-ac20-4cd3-a9d8-2c8831b69257",
+      "player_name": "Coles, Chad",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5c4e17db-2563-48c0-acd7-c46f91ed1fdd",
+      "player_name": "Connell, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5bd08c60-ca1e-4f9c-aa53-830bd9ae1da4",
+      "player_name": "Correa, Nelvin",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "41b8e53e-c119-4a81-bd19-21e9094b1596",
+      "player_name": "Costes, Marty",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c6f85852-6041-470f-976b-cf59883f0a93",
+      "player_name": "Davidson, Braxton",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "0b1e25d0-ab15-4b07-b925-e1330a58dc43",
+      "player_name": "Davis, Jaylin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "0fac12ea-85f2-49d3-93b3-b01e7c083c18",
+      "player_name": "De La Rosa, Eric",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "bbdc62ee-bf4a-44a9-b7bf-1867cc344241",
+      "player_name": "Denoyer, Noah",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b11a7569-27ff-44de-9e0c-fdf1f1097627",
+      "player_name": "Denz, Danny",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "dbbf96dd-0acc-4980-8260-00f93bc6fa40",
+      "player_name": "Devenney, Ciaran",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "9f4a121e-2007-44fb-b64e-51a83904efbb",
+      "player_name": "Devenney, Ciaran",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "1be84e35-6dd4-4a93-8e76-0211c49183c0",
+      "player_name": "Dula, Hunter",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2b96b960-f355-4595-bc59-3dfda41c53e8",
+      "player_name": "Dunand, Joe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7365271c-0e4a-453f-9ada-572e2bf1eb02",
+      "player_name": "Dunston, Shawon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "88037a51-31b8-4983-b421-85c08782f838",
+      "player_name": "Farmer, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "faad9fbf-93f6-483b-9cfc-c8fe45d7747b",
+      "player_name": "Firoved, Ethan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "d6119b95-65cc-4151-8778-73ca11626536",
+      "player_name": "Fletcher, Aaron",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8574b9fc-b806-4060-9456-65db077548cf",
+      "player_name": "Flores, Adalberto",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "74716101-9d58-4c68-91aa-c05f4624c8a9",
+      "player_name": "Fontana, Shayne",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "cbf9f43e-ce5a-4005-8740-a37c55d3ad38",
+      "player_name": "Galdoni, Lukas",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "971bb182-9c34-4987-930a-0837b48f8e50",
+      "player_name": "Hennen, Ryan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "55fc58a5-fc43-4b6d-9cf0-c688851a67ed",
+      "player_name": "Hibbert, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7cf15cf8-3c4f-48a1-b5f8-e6be0558f933",
+      "player_name": "Higgins, Kevin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "1d3da0cb-256d-4e4d-97c8-4bc93ca33412",
+      "player_name": "Higgins, Ryan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "30d3467b-77f7-4071-8a2a-be3648b58592",
+      "player_name": "Hill, Aaron",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "4a759ffa-f087-4383-8049-b10bdf3a4dfc",
+      "player_name": "Holiday, Aaron",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "717a932a-517f-48a6-9a63-a28c76327fcf",
+      "player_name": "Hoover, Jake",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "577b4e88-e81f-400b-9219-eb854aa7d32d",
+      "player_name": "Hornell, Michael",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a4b6824e-5d0f-4e28-b1bb-518888e05554",
+      "player_name": "Horrell, Michael",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b6ecd148-6d85-4f87-872c-78dd28968b76",
+      "player_name": "Horvath, Nick",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "e38387e5-169b-4fe1-b85a-780ce743e238",
+      "player_name": "Kato, Kobe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b26a3b27-907c-4de5-bdd5-fe00a1bde3f4",
+      "player_name": "Kato, Kobe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "cfb7eab6-7fc0-4ebb-9b76-236a2c9859e9",
+      "player_name": "Katz, Alex",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2d4c36cb-b23d-45eb-9d3d-37cfe38daabd",
+      "player_name": "Kelly, Juan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "21af2447-e441-4b42-a09e-2128f205526b",
+      "player_name": "Kickham, Mike",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "18f93012-6389-405f-a2e6-a442ce80f651",
+      "player_name": "Kruglewicz, Parker",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "88823f05-5abe-4598-b44d-3a0de1f05a2d",
+      "player_name": "Lang, Neil",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b2ed709e-78d8-437b-9366-8b33dea8621a",
+      "player_name": "Lardner, Mac",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "434e38fd-14a3-4afa-ba6d-d660ef615986",
+      "player_name": "Lewis, Brandon",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "eb457e6d-f926-4eb0-abdb-4d74126fadf5",
+      "player_name": "Lindow, Ethan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2f70bef3-0b73-46d3-a997-b3d1c1090de5",
+      "player_name": "Lindow, Ethan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "ea6c9d6a-dc82-49b9-ba90-637406477a19",
+      "player_name": "Llovera, Mauricio",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "bad137d6-eb24-4576-8b1d-1179835d88ea",
+      "player_name": "Loehr, Trace",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "19a31ec8-c3c4-4f76-8dd4-d48175cfca67",
+      "player_name": "Lucky, Nick",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "ed434c19-6282-4290-8ce0-31356671695c",
+      "player_name": "Lugo, Moises",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2445918d-d8b1-4806-b37a-8a27f50515d4",
+      "player_name": "Maberry, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "05b7a623-5708-4e4a-a837-e3cb1a58fa90",
+      "player_name": "Martin Jr, Rudy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "71aa237f-782c-433f-9291-16c77c134597",
+      "player_name": "Martin, Kyle",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b9eccd01-8199-467d-ac36-993a15c53897",
+      "player_name": "Martin, Kyle ",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "ba40e36b-69d2-443a-a54d-a06a655dd9ce",
+      "player_name": "Martin, Rudy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b064ad0d-6f82-4520-aea2-a88605f49839",
+      "player_name": "Martin, Trey",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a2afac01-8e1e-4c62-9973-65f396453399",
+      "player_name": "Martin, Trey",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "e41a7fd3-ff89-465b-9bee-331c78035b95",
+      "player_name": "McDermott, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7a285123-f1d6-44cf-ba5b-28998875b843",
+      "player_name": "McDermott, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "6b41a8f4-9a58-4bf0-95c5-101df3848c93",
+      "player_name": "McNeely, Caleb",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "260cf46d-9880-4e34-af3c-1f5cb74d791f",
+      "player_name": "McRae, Blake",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c3a30ebc-b8fb-488e-8744-8caa39327490",
+      "player_name": "Mikolajchak, Nick",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "51a537bc-f60e-43a9-b180-362d7006f6be",
+      "player_name": "Miller, Jalen",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "68095c85-eac5-48c0-ade4-8e00bff7969a",
+      "player_name": "Miranda, Kevin",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "b4398ed4-12b2-4cab-aedb-312e292a9a07",
+      "player_name": "Mollerus, Josh",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a9cb9a73-3fca-418f-885d-4d1921a14e4e",
+      "player_name": "Mondesi, Paul",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "f8cecda9-48e6-48b5-bffa-82ec735f4797",
+      "player_name": "Mondesi, Paul",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7c8b53e4-a1e3-42ab-b8bb-8cf92cc673b0",
+      "player_name": "Moorer, Demetrius",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "d43adc33-1e45-4f95-83e3-94c1377ad4f2",
+      "player_name": "Morales, Jordan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8d03f4b5-bb6a-4b45-a88c-c36c84937b77",
+      "player_name": "Neff, Zach",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "6ffe1387-e300-498e-9382-d242f522c81e",
+      "player_name": "Neff, Zach",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2dec4657-592a-40c9-a394-eb385c29f710",
+      "player_name": "Nelson, James",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c47fa71b-5ff8-4453-8411-fa31248c1b5d",
+      "player_name": "Olmeda, Alexis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "44d208b6-a2a5-43bf-bc78-c59bd74ad9ac",
+      "player_name": "Olsen, Jon",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "11985dc8-3e67-4e3e-b86d-f7ee7a28fbbf",
+      "player_name": "Otosaka, Tomo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "563343e4-6d0d-45ef-a4ef-30461c497c46",
+      "player_name": "Pace, Foster",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "85ef198f-d134-4464-91b3-ab6cc2defbde",
+      "player_name": "Palm, Tyler",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "ea71a8c3-8020-4080-a6df-1bc6aba6cbfc",
+      "player_name": "Pantoja, Alexis",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "69b76c3e-cf56-484f-80e2-4235e35f33c1",
+      "player_name": "Peralta, Elvis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "37b7c65d-8965-4614-b0c5-7da758002146",
+      "player_name": "Perez, Joe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "108119db-40ee-4582-8748-6a7332970ef0",
+      "player_name": "Proctor, Chris",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8d90ffbb-cb49-4d71-929b-bfe19731f1c3",
+      "player_name": "Quiroz, Isaias",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5bd3bdb6-3cd7-43d0-b094-ed659b27550b",
+      "player_name": "Ramirez, JC",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "3a3f5f21-bfa6-402b-8b4f-2b49a8cfca48",
+      "player_name": "Ramirez, J.C. ",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "03494b93-95ca-4249-817e-d8178c24d7f2",
+      "player_name": "Ray, Anthony",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5ccaf0b8-1949-476b-aac8-49206388f180",
+      "player_name": "Reinheimer, Jack",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "32833492-06d7-4313-97ed-91bca34aac67",
+      "player_name": "Reyes, Alfredo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8914e3f1-4c59-4fcc-85d7-d7a9b9d34370",
+      "player_name": "Rhinesmith, Jacob",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "980e1315-9405-41d8-adbe-eaa9d25357ab",
+      "player_name": "Rhinesmith, Jacob",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "4a0d52be-2063-4e19-9453-30185f4e7ecc",
+      "player_name": "Richards, Jairus",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "62c6a997-9026-447b-8342-32c4481656a1",
+      "player_name": "Robinson, Cam",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "931f1658-6bfe-46e0-b0be-e99ad5a71492",
+      "player_name": "Rosa, Joseph",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5c2a048a-c3e1-4cda-ae65-bc7b90ff284b",
+      "player_name": "Sanabia, Alex",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "55f72ed5-5017-460d-8ad0-060aeeac7de4",
+      "player_name": "Santana, Cristian",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "340e8daf-b734-49c0-a13a-b87a79d6c9c1",
+      "player_name": "Schulze, Brett",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "bb4125ac-06f9-4df4-80ff-5f602b8810bc",
+      "player_name": "Scott, Braden",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "1ee7eb35-cbcf-456b-a7cc-98d5a45b71e8",
+      "player_name": "Scott, Wes",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "d3e05db3-f267-4773-b821-12da78002a1f",
+      "player_name": "Scott, Wesley",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "220af9a2-43b0-4c23-8a7b-4b90f71fc6aa",
+      "player_name": "Sedio, Chad",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "8840f8bb-b96f-479b-a09c-e30742f27abd",
+      "player_name": "Sepulveda, Christian",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7a88342b-f5de-4b95-9afb-4e6c597ccfa5",
+      "player_name": "Simington, Miles",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "24bd91b1-2a00-41c0-bd49-693a6b31a9b2",
+      "player_name": "Simoneit, Will",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "5147bdde-3bc5-4170-8ab0-587bdb9a2753",
+      "player_name": "Soularie, Alerick",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c74aac9b-85c3-4345-97ca-5b70c5188277",
+      "player_name": "Stauffer, Adam",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c2f20965-af6c-46e8-88c6-8a2c7e25ce3d",
+      "player_name": "Stewart, Will",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "16fc89e7-38dd-451a-9102-2f0aedfd48dc",
+      "player_name": "Stowers, Josh",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a4df5646-e63d-425e-b96b-d9383865f1ea",
+      "player_name": "Sutera, Tom",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "fccdf2cc-d2ed-46f7-8fd2-b818fbf063ed",
+      "player_name": "Sutera, Tom",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "c5f9a9bd-6e3a-4076-b1c1-2e980e7256ec",
+      "player_name": "Thurman, Grayson",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "38280c6d-5a88-40a2-84bd-21a270bbfa72",
+      "player_name": "Tostado, Frankie",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7a0c0048-fcaf-4498-937e-32ee90a84185",
+      "player_name": "Tovalin, Osvaldo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "11f2df69-a0e4-480f-9561-c2cefbbad447",
+      "player_name": "Turner, Matt",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "1a1a81b0-b739-459b-851a-ad93a3c9e6c7",
+      "player_name": "Turner, Matt",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a091b462-f7fc-4d0b-9b98-d840847d13a3",
+      "player_name": "Vallimont, Chris",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "6b5237c2-4616-441f-8401-27471376b51a",
+      "player_name": "Valverde, Alex",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7389af13-fb16-4645-bb68-e3d49e8ba739",
+      "player_name": "Valverde, Alex",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "fca57ed5-6774-4c35-a621-6fee96eea834",
+      "player_name": "Veen, Zach",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "800da9de-adb9-4035-95cc-e83661b10d7a",
+      "player_name": "Veloz, Omar",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "07e6a029-24fd-46a1-921c-542669725478",
+      "player_name": "Waite, Jonathan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "70c3be9b-b487-41a1-a092-ded6962e5f76",
+      "player_name": "Walker, Mason",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "246b3c6b-7b27-4e97-9033-d5e01833a840",
+      "player_name": "Walker, Matt",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7e084cfd-68e5-40eb-95e7-404f49121906",
+      "player_name": "Wallace, Paxton",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "60a55b5d-c8f3-41b4-9b0f-feae6b9189f2",
+      "player_name": "Washington, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "a51b8838-4dde-4e3d-a9ce-cc5119ebab5f",
+      "player_name": "Washington, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "2e787871-68d5-44d4-868a-b0b7b1544a9d",
+      "player_name": "Washington, David ",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "7c5a0067-2885-403a-af48-5cc8b0756a36",
+      "player_name": "Watson, Kevin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "43e646a2-e58a-45ff-8293-ccf0a968afe7",
+      "player_name": "Wehler, Jeffrey",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "52071e25-21b7-4df1-8691-de4c8c712470",
+      "player_name": "Welker, Colton",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "fc999863-4559-4789-b0d8-bc2bb6068bbd",
+      "player_name": "Wielansky, Michael",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "64bdc26a-3c85-4e26-b120-307427c42768",
+      "player_name": "Wiel, Zander",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "e1878729-f7d7-45a8-9b6a-253a129d45dc",
+      "player_name": "Williams, Chris",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "be53403b-981f-412f-bf6f-0ae33ba4f821",
+      "player_name": "Williams, Miles",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "0e0ec5c0-eb7d-4701-aff7-c45294ea473e",
+      "player_name": "Womack, Alsander",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "26e704ca-c477-417e-aacd-80985e484afa",
+      "player_name": "Woolfolk, Dallas",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "34bf6370-cb4b-4b7d-ba2b-923af889d267",
+      "player_name": "Wylie, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    },
+    {
+      "player_id": "46244b1a-d798-4552-b737-1d18a5270b8d",
+      "player_name": "Zaremba, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "York Revolution"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 1000,
+    "total": 155,
+    "pages": 1
+  }
+}

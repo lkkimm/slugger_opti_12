@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "message": "Teams retrieved successfully",
+  "data": [
+    {
+      "team_id": "d3d84718-299d-4973-b781-f35ac9c02007",
+      "team_name": "York Revolution",
+      "league": "north",
+      "ballpark": {
+        "ballpark_id": "c350bf4f-d813-47d7-ad70-d8c991ea10e8",
+        "ballpark_name": "WellSpanPark",
+        "city": "York",
+        "state": "PA",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "10ad57e4-9ecf-4943-8b48-5d4a7d40fd18",
+      "team_name": "Staten Island FerryHawks",
+      "league": "north",
+      "ballpark": {
+        "ballpark_id": "9e747f31-4ccc-4810-805f-cf0ecfd76ddb",
+        "ballpark_name": "StatenIslandYankees",
+        "city": "Staten Island",
+        "state": "NY",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "a3f927e5-1a1a-4a4f-858e-1d6a292875aa",
+      "team_name": "Southern Maryland Blue Crabs",
+      "league": "south",
+      "ballpark": {
+        "ballpark_id": "5f5b9295-e676-4126-92f5-33fe057bd916",
+        "ballpark_name": "RegencyFurnitureStadium",
+        "city": "Waldorf",
+        "state": "MD",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "62d3c576-60ba-4e9e-aca9-7bca378610d2",
+      "team_name": "Long Island Ducks",
+      "league": "north",
+      "ballpark": {
+        "ballpark_id": "a820b970-a24d-49ba-a6be-f6d72de3d4b0",
+        "ballpark_name": "CenterIslip",
+        "city": "Central Islip",
+        "state": "NY",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "45bf18d4-df2a-472d-9e7c-11f05bc86fd8",
+      "team_name": "Lexington Legends",
+      "league": "south",
+      "ballpark": {
+        "ballpark_id": "7ba1db72-6eb0-4e0b-b4c5-ca228ed46ac1",
+        "ballpark_name": "WildHealthField",
+        "city": "Lexington",
+        "state": "KY",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "2c2aa5a2-dd73-451c-89ab-edb4c54cd522",
+      "team_name": "Lancaster Stormers",
+      "league": "north",
+      "ballpark": {
+        "ballpark_id": "5026ecf9-4c01-4638-91a9-74f93ce8495a",
+        "ballpark_name": "ClipperMagazine",
+        "city": "Lancaster",
+        "state": "PA",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "020c1b91-b8bf-4da8-8107-bc3915247b95",
+      "team_name": "High Point Rockers",
+      "league": "south",
+      "ballpark": {
+        "ballpark_id": "8eb284fd-273a-43f3-bed1-36b35148105f",
+        "ballpark_name": "HighPoint",
+        "city": "High Point",
+        "state": "NC",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "f012d5c6-15f9-4f5f-a047-27e254859816",
+      "team_name": "Hagerstown Flying Boxcars",
+      "league": "north",
+      "ballpark": {
+        "ballpark_id": "a3b44244-a6d8-4aca-bbc4-dc28e3a2adbd",
+        "ballpark_name": "HagerstownBallpark",
+        "city": "Hagerstown",
+        "state": "MD",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "207f6237-59f0-41c9-9bc3-04f588aa8185",
+      "team_name": "Gastonia Baseball Club",
+      "league": "south",
+      "ballpark": {
+        "ballpark_id": "fd4ccee1-481b-4ac0-8cb8-39823629e7dd",
+        "ballpark_name": "CaroMontHealthPark",
+        "city": "Gastonia",
+        "state": "NC",
+        "dimensions": null
+      }
+    },
+    {
+      "team_id": "486934a5-8ef5-4441-b55c-ab75be7e2fcf",
+      "team_name": "Charleston Dirty Birds",
+      "league": "south",
+      "ballpark": {
+        "ballpark_id": "f2e1dc48-8742-41fa-8b1d-14715e0e91e9",
+        "ballpark_name": "GoMart",
+        "city": "Charleston",
+        "state": "WV",
+        "dimensions": null
+      }
+    }
+  ]
+}

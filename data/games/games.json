@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "message": "Games retrieved successfully",
+  "data": [
+    {
+      "game_id": "fce47f1e-90cb-427b-8eac-6228197b36ff",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "York Revolution",
+      "ballpark_name": "HighPoint",
+      "date": "2025-10-01"
+    },
+    {
+      "game_id": "ff65a285-7ead-4ea0-a87d-8f58f7434967",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "York Revolution",
+      "ballpark_name": "HighPoint",
+      "date": "2025-09-30"
+    },
+    {
+      "game_id": "b79f7431-c4d6-4670-942b-b84e1f66749e",
+      "home_team_name": "York Revolution",
+      "visiting_team_name": "High Point Rockers",
+      "ballpark_name": "WellSpanPark",
+      "date": "2025-09-28"
+    },
+    {
+      "game_id": "cd6b5235-afc8-4ff0-94e3-92c16afa2ddd",
+      "home_team_name": "York Revolution",
+      "visiting_team_name": "High Point Rockers",
+      "ballpark_name": "WellSpanPark",
+      "date": "2025-09-27"
+    },
+    {
+      "game_id": "1913a89a-e784-48e5-807f-71ab73620b8d",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "Gastonia Baseball Club",
+      "ballpark_name": "HighPoint",
+      "date": "2025-09-25"
+    },
+    {
+      "game_id": "71e23152-47ce-4c57-a271-05a240bed4b3",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "Gastonia Baseball Club",
+      "ballpark_name": "HighPoint",
+      "date": "2025-09-24"
+    },
+    {
+      "game_id": "8281412c-003b-400c-af71-8cc1078d8285",
+      "home_team_name": "Lancaster Stormers",
+      "visiting_team_name": "York Revolution",
+      "ballpark_name": "ClipperMagazine",
+      "date": "2025-09-23"
+    },
+    {
+      "game_id": "626615fd-88f3-4ad6-89f1-0deef422979e",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "Gastonia Baseball Club",
+      "ballpark_name": "HighPoint",
+      "date": "2025-09-23"
+    },
+    {
+      "game_id": "99f8ab42-a461-4728-a353-c8713cffc3a3",
+      "home_team_name": "York Revolution",
+      "visiting_team_name": "Lancaster Stormers",
+      "ballpark_name": "WellSpanPark",
+      "date": "2025-09-21"
+    },
+    {
+      "game_id": "06ab638f-ff82-4208-8420-9b56ece27364",
+      "home_team_name": "Gastonia Baseball Club",
+      "visiting_team_name": "High Point Rockers",
+      "ballpark_name": "CaroMontHealthPark",
+      "date": "2025-09-21"
+    },
+    {
+      "game_id": "ed4c2a86-0489-41bd-a277-2b92bb51284d",
+      "home_team_name": "York Revolution",
+      "visiting_team_name": "Lancaster Stormers",
+      "ballpark_name": "WellSpanPark",
+      "date": "2025-09-20"
+    },
+    {
+      "game_id": "3216d054-bbb6-4479-8716-cec626efcb48",
+      "home_team_name": "Gastonia Baseball Club",
+      "visiting_team_name": "High Point Rockers",
+      "ballpark_name": "CaroMontHealthPark",
+      "date": "2025-09-20"
+    },
+    {
+      "game_id": "7a7a5070-77bc-4645-a8d8-3aed82054e4b",
+      "home_team_name": "Lancaster Stormers",
+      "visiting_team_name": "Long Island Ducks",
+      "ballpark_name": "ClipperMagazine",
+      "date": "2025-09-18"
+    },
+    {
+      "game_id": "8a04fec1-5775-4a5e-946a-569d5e694009",
+      "home_team_name": "Lexington Legends",
+      "visiting_team_name": "Southern Maryland Blue Crabs",
+      "ballpark_name": "WildHealthField",
+      "date": "2025-09-18"
+    },
+    {
+      "game_id": "2a37e89f-1e8a-4754-9a7e-2b1ebe1c5a9d",
+      "home_team_name": "Staten Island FerryHawks",
+      "visiting_team_name": "York Revolution",
+      "ballpark_name": "StatenIslandYankees",
+      "date": "2025-09-18"
+    },
+    {
+      "game_id": "fb74fe0d-390f-4653-a62a-fbc1da9176d1",
+      "home_team_name": "High Point Rockers",
+      "visiting_team_name": "Charleston Dirty Birds",
+      "ballpark_name": "HighPoint",
+      "date": "2025-09-18"
+    },
+    {
+      "game_id": "afe01471-8c5a-401f-9dad-b8e157fce44c",
+      "home_team_name": "Gastonia Baseball Club",
+      "visiting_team_name": "Hagerstown Flying Boxcars",
+      "ballpark_name": "CaroMontHealthPark",
+      "date": "2025-09-18"
+    },
+    {
+      "game_id": "c29678bc-8d0a-4fa4-ab74-694d9fbea046",
+      "home_team_name": "Gastonia Baseball Club",
+      "visiting_team_name": "Hagerstown Flying Boxcars",
+      "ballpark_name": "CaroMontHealthPark",
+      "date": "2025-09-17"
+    },
+    {
+      "game_id": "1e7618ff-419a-4cda-80c9-ee73b15a01cc",
+      "home_team_name": "Staten Island FerryHawks",
+      "visiting_team_name": "York Revolution",
+      "ballpark_name": "StatenIslandYankees",
+      "date": "2025-09-17"
+    },
+    {
+      "game_id": "7162a301-cc4a-4ff5-89eb-6ed16e2ecc70",
+      "home_team_name": "Lancaster Stormers",
+      "visiting_team_name": "Long Island Ducks",
+      "ballpark_name": "ClipperMagazine",
+      "date": "2025-09-17"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 20,
+    "total": 20
+  }
+}

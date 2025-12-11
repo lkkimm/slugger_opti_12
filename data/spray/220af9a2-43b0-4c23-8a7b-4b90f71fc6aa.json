@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "Pitches retrieved successfully",
+  "data": [],
+  "meta": {
+    "page": 1,
+    "limit": 1000,
+    "total": 0
+  }
+}

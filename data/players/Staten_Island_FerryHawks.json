@@ -1,0 +1,732 @@
+{
+  "success": true,
+  "message": "Players retrieved successfully",
+  "data": [
+    {
+      "player_id": "251e86c0-0872-4e7b-9201-3314f656f14a",
+      "player_name": "Alemais, Stephen",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "0188e8ec-b262-455c-a4c5-28aa6aaf0497",
+      "player_name": "Allegretti, Christian",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "c3d57799-d4c6-40e7-8cf7-d127395dea48",
+      "player_name": "Avelino, Abiatal",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b18e8284-db18-414d-a9e3-ec44a315e433",
+      "player_name": "Baker, Robbie",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "a54e3744-d5da-42ed-a412-294cd59eca3e",
+      "player_name": "Baldwin, Roldani",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "33fb38c5-4605-4673-b21e-13ae12458be8",
+      "player_name": "Binns, Malik",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "ca78a51a-ddee-48f0-9fb4-f3947fa80487",
+      "player_name": "Brooks, Robert",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "85eb0b07-97ba-4d0f-b1df-1aa53769c51a",
+      "player_name": "Butcher, Will",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "fcff7fae-bed2-42ef-9442-ef47b786336e",
+      "player_name": "Capuano, Christian",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "e8ec5c3c-f29d-4085-afca-65fb93d0f848",
+      "player_name": "Carpenter, Joseph",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "88ec938a-1fd7-4099-8d51-faf495aa9389",
+      "player_name": "Casey, Donovan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "3344c2a4-4bd3-492b-b45c-acfb57fee533",
+      "player_name": "Castro, Luis",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "545229f1-d0a8-4057-8dde-0f8dd6e2f048",
+      "player_name": "Dearden, Tyler",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "c2faa951-0024-409c-87c0-1c380e891758",
+      "player_name": "De Aza, Alejandro",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b8b38ceb-82fb-4d22-af25-e96739920ba6",
+      "player_name": "Dernedde, Kyle",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "4366534f-30d9-4bb4-923e-82ad98ee6546",
+      "player_name": "Diaz, Isan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "44ee0529-9a10-43d8-9373-fbbfaa651ffa",
+      "player_name": "Dues, Damon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "749832ef-320c-4b12-b3c9-594f875d72f1",
+      "player_name": "Dunand, Joe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "0fe8cf7e-47a2-493e-9968-cc68a048e7da",
+      "player_name": "Dunston, Shawon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "1cf271b1-3825-42b4-a9a0-ddc29dd6b85c",
+      "player_name": "Dyson, Tyler",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "a00a0a6d-e93c-49a2-a4a3-3cc627dccf66",
+      "player_name": "Esposito, John",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "72cc9abc-ca05-4cf0-b174-52bd4db2eb49",
+      "player_name": "Estrada, Jesse",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "9c04d36e-4c0c-47f4-93db-3463b65e0131",
+      "player_name": "Faello, Mark",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "9deff368-1cd7-4f44-86a9-b933423d79f6",
+      "player_name": "Farmer, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "6c65cd2e-c171-44ec-92b4-60bdff4effaa",
+      "player_name": "Garcia, Wilkerman",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "900c8944-f919-4164-93de-584fc6bcf308",
+      "player_name": "Geraldo, Manuel",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "41fbff19-5c2a-412f-83f2-4d56974f8072",
+      "player_name": "Gomez, Hector",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b4cd7a45-c415-4ab5-bac0-3573cbceb780",
+      "player_name": "Griep, Nate",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "57ccaf74-bd9b-411e-a7a1-ee339643ccbd",
+      "player_name": "Guzman, Jeison",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "05899bdf-88ce-4c60-bfbb-134742eb1640",
+      "player_name": "Hill, Cam",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "e6717720-4fff-43a1-8ee1-671e1bc4b9e5",
+      "player_name": "Howard, Gaige",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b1f8f629-d4a7-46ae-9a7d-d5f48eac780e",
+      "player_name": "Howard, Jordan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "944078a1-9519-4040-9586-14223d1774e0",
+      "player_name": "Howell, Korry",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "e4b51669-515f-4f56-ba23-6c8a5e04ab6c",
+      "player_name": "Hulsizer, Niko",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "5a64952c-481a-4398-9073-9276775e1ed4",
+      "player_name": "Johnson, Kolby",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "072bdbf0-ef41-4b4d-9321-6eca67ca3016",
+      "player_name": "Jones, Joe",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b2d51757-d55e-494e-a72d-bbc1231b21ae",
+      "player_name": "Kaminsky, Rob",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "15d68c2f-53d3-4f4c-8ea3-941f2d306dbb",
+      "player_name": "Kato, Kobe",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "90ec672f-efe9-4aa4-b08d-bbe8988ca0c6",
+      "player_name": "Kelly, Scott",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "03696be7-4a61-4fb0-a72e-c6d1aa208f7f",
+      "player_name": "Kirwan, William",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "abc078cf-63dd-4ece-aaf9-6fd6b2489368",
+      "player_name": "Leasher, Aaron",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "9c3d0e5e-ebc5-4a23-941b-9db5736f112b",
+      "player_name": "Lepard, Taylor",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "d4731cf2-db4b-4cda-bf39-5c6921710cc1",
+      "player_name": "Lepard, Taylor ",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "3b40aec8-f34d-43f4-bbc4-0edf228a9dca",
+      "player_name": "Loehr, Trace",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "2d9e5635-555f-49b4-821f-c3542aaa058a",
+      "player_name": "Lucky, Nick",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "1dfcb042-e8fd-44a6-b03f-ea7a9738dcc7",
+      "player_name": "Maggi, Drew",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "561a5a39-3b1c-41ac-9e7a-3f037f2ca4ed",
+      "player_name": "Martinez, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "28b333e3-e09b-473d-8a8b-39002f7dfc14",
+      "player_name": "Martin, Rudy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "f0601333-dd39-4cef-ac67-f0c56f8d99e5",
+      "player_name": "Matheny, Shane",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "e9bc3d7f-6963-4283-bd26-f970693166b7",
+      "player_name": "Maxwell, Mason",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "2f597f3e-bcf7-4e4a-9d17-271adba669c0",
+      "player_name": "McBroom, Ryan",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "9804514c-868f-4602-9983-de07a775e00e",
+      "player_name": "McDermott, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "e490437a-d751-4df2-8319-c4676f79736b",
+      "player_name": "McKenna, Brian",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "71e3fc24-11e6-4551-bd8a-fa502c3397ec",
+      "player_name": "Melfi, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "df460c5e-0b46-4f3c-b560-add24cbe1e16",
+      "player_name": "Mondesi, Paul",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "1c4692a2-ad32-47ef-98e4-42bba6edff6a",
+      "player_name": "Motter, Taylor",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "3953b4e2-7fde-4c02-bb52-f6e951b9e47d",
+      "player_name": "Noriega, Andres",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "955f7093-e344-4ef1-a1ea-c54f6cc47a32",
+      "player_name": "Norman, Ben",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "670bccf5-e79d-4aa8-83fb-582b18f824cc",
+      "player_name": "Paredes, Jimmy",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "986fba14-62a1-441f-bd4b-22f20e627baa",
+      "player_name": "Quattrocchi, Anthony",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "1d0e3c09-5baa-4172-b600-0ee76a7ec7b4",
+      "player_name": "Reitz, Matt",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "3982a45a-9831-4546-97ab-ace4a8f7d0c4",
+      "player_name": "Reyes, Alfredo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "483ee7a6-54bb-4a16-af92-c20da844c70b",
+      "player_name": "Rhinesmith, Jacob",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "d433f2cb-5619-4460-96ac-e67126847994",
+      "player_name": "Roe, Nate",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "2e64e8b1-0ac6-49d1-b8f9-94a68c528f2f",
+      "player_name": "Sandoval, Pablo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "cc6606db-74ce-4cdc-ac5b-e7f41f87367c",
+      "player_name": "Scantlin, Nate",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "ff0378d8-c9a4-4d34-99da-2f8bb253a46c",
+      "player_name": "Scheffler, Matt",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Switch",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "6d253312-f8ea-4c27-a222-e72004c0d414",
+      "player_name": "Sedio, Chad",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "b0123181-1246-4fab-a14c-2e16770dc443",
+      "player_name": "Shawaryn, Mike",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "a1f5b2de-fcd8-4c4f-b057-313a7e7e97a9",
+      "player_name": "Sherfy, James",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "5fd91e88-182b-4507-99f8-5526860d0a21",
+      "player_name": "Smith, Chad",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "72109c35-7125-4695-9cf5-c78bbce13fe4",
+      "player_name": "Sosa, Gustavo",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Right",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "293d385b-5484-412c-b9ad-272072f2ed19",
+      "player_name": "Vargas, Xavier",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "ec024205-1aa4-40d3-85b0-67340d633772",
+      "player_name": "Velazquez, Ryan",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "973efc61-fb64-438b-bb26-62331bfe3a99",
+      "player_name": "Villarreal, Brayan",
+      "player_pitching_handedness": "Right",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "741c6537-99ba-4bb8-83fb-50d282dff560",
+      "player_name": "Warzek, Bryan",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "2bed81a1-d9ec-44c1-a95e-c6ac27ddfd18",
+      "player_name": "Washington, David",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "871250cc-63b0-4365-a728-d686d28fa784",
+      "player_name": "Williams, Justin",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": "Left",
+      "is_hitter": true,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "aa520e48-9544-4805-9361-583c3b95f9e2",
+      "player_name": "Wingrove, Rixon",
+      "player_pitching_handedness": null,
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": false,
+      "team_name": "Staten Island FerryHawks"
+    },
+    {
+      "player_id": "df30c5fa-dd46-4469-81fb-f7ace4f68765",
+      "player_name": "Woodward, J.P.",
+      "player_pitching_handedness": "Left",
+      "player_batting_handedness": null,
+      "is_hitter": false,
+      "is_pitcher": true,
+      "team_name": "Staten Island FerryHawks"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 1000,
+    "total": 80,
+    "pages": 1
+  }
+}

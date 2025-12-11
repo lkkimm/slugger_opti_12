@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "message": "Ballparks retrieved successfully",
+  "data": [
+    {
+      "ballpark_id": "fd4ccee1-481b-4ac0-8cb8-39823629e7dd",
+      "ballpark_name": "CaroMontHealthPark",
+      "dimensions": null,
+      "city": "Gastonia",
+      "state": "NC"
+    },
+    {
+      "ballpark_id": "a820b970-a24d-49ba-a6be-f6d72de3d4b0",
+      "ballpark_name": "CenterIslip",
+      "dimensions": null,
+      "city": "Central Islip",
+      "state": "NY"
+    },
+    {
+      "ballpark_id": "5026ecf9-4c01-4638-91a9-74f93ce8495a",
+      "ballpark_name": "ClipperMagazine",
+      "dimensions": null,
+      "city": "Lancaster",
+      "state": "PA"
+    },
+    {
+      "ballpark_id": "f2e1dc48-8742-41fa-8b1d-14715e0e91e9",
+      "ballpark_name": "GoMart",
+      "dimensions": null,
+      "city": "Charleston",
+      "state": "WV"
+    },
+    {
+      "ballpark_id": "a3b44244-a6d8-4aca-bbc4-dc28e3a2adbd",
+      "ballpark_name": "HagerstownBallpark",
+      "dimensions": null,
+      "city": "Hagerstown",
+      "state": "MD"
+    },
+    {
+      "ballpark_id": "8eb284fd-273a-43f3-bed1-36b35148105f",
+      "ballpark_name": "HighPoint",
+      "dimensions": null,
+      "city": "High Point",
+      "state": "NC"
+    },
+    {
+      "ballpark_id": "5f5b9295-e676-4126-92f5-33fe057bd916",
+      "ballpark_name": "RegencyFurnitureStadium",
+      "dimensions": null,
+      "city": "Waldorf",
+      "state": "MD"
+    },
+    {
+      "ballpark_id": "9e747f31-4ccc-4810-805f-cf0ecfd76ddb",
+      "ballpark_name": "StatenIslandYankees",
+      "dimensions": null,
+      "city": "Staten Island",
+      "state": "NY"
+    },
+    {
+      "ballpark_id": "c350bf4f-d813-47d7-ad70-d8c991ea10e8",
+      "ballpark_name": "WellSpanPark",
+      "dimensions": null,
+      "city": "York",
+      "state": "PA"
+    },
+    {
+      "ballpark_id": "7ba1db72-6eb0-4e0b-b4c5-ca228ed46ac1",
+      "ballpark_name": "WildHealthField",
+      "dimensions": null,
+      "city": "Lexington",
+      "state": "KY"
+    }
+  ]
+}
